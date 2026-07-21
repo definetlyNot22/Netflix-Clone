@@ -2,21 +2,19 @@
 
 A front-end clone of the Netflix landing page, built using **HTML** and **CSS** to practice responsive layout design, flexbox, and UI replication of real-world websites.
 
-
-
 ## 📸 Preview
 
 **Hero Section**
-![Hero Section](Project%201/Screenshots/Screenshot%202026-07-21%20181658.png)
+![Hero Section](assets/screenshots/Screenshot%202026-07-21%20181658.png)
 
 **Enjoy on your TV**
-![Enjoy on your TV](Project%201/Screenshots/Screenshot%202026-07-21%20181720.png)
+![Enjoy on your TV](assets/screenshots/Screenshot%202026-07-21%20181720.png)
 
 **Download to Watch Offline**
-![Download to Watch Offline](Project%201/Screenshots/Screenshot%202026-07-21%20181801.png)
+![Download to Watch Offline](assets/screenshots/Screenshot%202026-07-21%20181801.png)
 
 **FAQ & Footer**
-![FAQ and Footer](Project%201/Screenshots/Screenshot%202026-07-21%20181817.png)
+![FAQ and Footer](assets/screenshots/Screenshot%202026-07-21%20181817.png)
 
 ## 🛠️ Built With
 - **HTML5** – page structure and content
