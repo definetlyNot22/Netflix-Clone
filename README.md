@@ -5,10 +5,10 @@ A front-end clone of the Netflix landing page, built using **HTML** and **CSS** 
 ## 📸 Preview
 
 **Hero Section**
-![Hero Section](assets/screenshots/Screenshot%202026-07-21%20181658.png)
+![Hero Section](assets/Screenshots/Screenshot 2026-07-21 181658.png)
 
 **Enjoy on your TV**
-![Enjoy on your TV](assets/screenshots/Screenshot%202026-07-21%20181720.png)
+![Enjoy on your TV]()
 
 **Download to Watch Offline**
 ![Download to Watch Offline](assets/screenshots/Screenshot%202026-07-21%20181801.png)
