@@ -11,7 +11,7 @@ A front-end clone of the Netflix landing page, built using **HTML** and **CSS** 
 ![Enjoy on your TV](assets/Screenshots/Screenshot 2026-07-21 181720.png)
 
 **Download to Watch Offline**
-![Download to Watch Offline](assets/screenshots/Screenshot%202026-07-21%20181801.png)
+![Download to Watch Offline](assets/Screenshots/Screenshot 2026-07-21 181801.png)
 
 **FAQ & Footer**
 ![FAQ and Footer](assets/screenshots/Screenshot%202026-07-21%20181817.png)
